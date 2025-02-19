@@ -1,0 +1,59 @@
+Mais Serviços
+
+
+
+Mais Serviços é uma plataforma que conecta clientes a prestadores de serviços, facilitando a contratação de profissionais qualificados de diversas áreas.
+
+
+- Cadastro e Login de Usuários
+- Solicitação de Serviços
+- Chat para Comunicação
+- Avaliação e Feedback dos Profissionais
+- Gerenciamento de Perfil
+- Exportação de Relatórios em PDF
+
+
+Tecnologias Utilizadas
+
+-Linguagem: Java
+-IDE: NetBeans
+-Banco de Dados: MySQL
+-Controle de Versão: Git & GitHub
+
+Estrutura do Projeto
+
+/mais-servicos  
+  ├── src/  
+  │   ├── models/         # Modelos de dados  
+  │   ├── controllers/    # Regras de negócios  
+  │   ├── views/          # Interfaces gráficas (Swing/JavaFX)  
+  │   ├── utils/          # Classes utilitárias  
+  │   ├── Main.java       # Ponto de entrada do app  
+  ├── database/           # Scripts SQL para o banco de dados  
+  ├── assets/             # Imagens e ícones  
+  ├── README.md           # Documentação  
+
+ Como Rodar o Projeto
+
+
+1️  Clone este repositório:
+
+https://github.com/Gerlane024/Projeto-final/new/main
+
+2️ Abra o NetBeans e importe o projeto.
+
+3️ Configure a conexão com o banco de dados (MySQL) no arquivo de configuração.
+
+4️  Compile e execute o projeto pelo NetBeans.
+
+DIAGRAMA CASO DE USO
+
+"C:\Users\devmat\Documents\DIAGRAMA CASO DE USO.png"
+
+
+DIAGRAMA DE CLASSE
+
+"C:\Users\devmat\Documents\diagrama de classe.png"
+
+
+
